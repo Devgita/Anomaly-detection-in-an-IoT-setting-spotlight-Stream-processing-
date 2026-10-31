@@ -1,0 +1,17 @@
+{
+  "precision": 0.808,
+  "recall": 0.955,
+  "f1": 0.875,
+  "confusion_matrix": [
+    [
+      546,
+      10
+    ],
+    [
+      2,
+      42
+    ]
+  ],
+  "test_items": 600,
+  "note": "Labels are synthetic and only validate the demonstration."
+}
